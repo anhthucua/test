@@ -1,3 +1,7 @@
 tran anh thu
+<<<<<<< HEAD
 pham minh hieu
 you are my life
+=======
+pham minh hieu
+>>>>>>> parent of 182bb0c... commit test again
